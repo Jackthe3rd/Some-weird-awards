@@ -9,3 +9,5 @@ Right now awards are useless because I can't code.
 
 # Note
 Please make sure you are using Minecraft bedrock edition.
+
+Thank You.
