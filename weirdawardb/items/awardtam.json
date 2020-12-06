@@ -1,11 +1,17 @@
 {
-	"format_version": "1.12.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "award:awardtam"
-		},
-		"components": {
-			"minecraft:max_stack_size": 64
-		}
-	}
+   "format_version":"1.16.100",
+   "minecraft:item":{
+      "description":{
+         "category": "nature",
+         "identifier":"award:awardtam"
+      },
+      "components":{
+         "minecraft:icon":{
+            "texture":"awardtam"
+         },
+         "minecraft:display_name":{
+            "value":"Ternion al Mighty"
+         }
+      }
+   }
 }
