@@ -4,21 +4,21 @@
         "description": "Oh those weird awards",
         "name": "Some weird awards",
         "uuid": "4b945c51-031f-4725-bc3f-608064c6591f",
-        "version": [ 0, 0, 1 ],
-        "min_engine_version": [ 1, 14, 0 ]
+        "version": [ 1, 0, 3 ],
+        "min_engine_version": [ 1, 16, 100 ]
     },
     "modules": [
         {
             "description": "Oh those weird awards",
             "type": "data",
             "uuid": "d3ac7e07-e5cb-4ff4-a55e-239c5bbe94fd",
-            "version": [0, 0, 1]
+            "version": [1, 0, 3]
         }
     ],
     "dependencies": [
         {
             "uuid": "5115513c-5631-4b92-8158-c284559474e1",
-            "version": [0, 0, 1]
+            "version": [1, 0, 3]
         }
     ]
 }

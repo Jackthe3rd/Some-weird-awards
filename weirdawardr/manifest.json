@@ -4,15 +4,15 @@
         "description": "Oh those weird awards",
         "name": "Some weird awards",
         "uuid": "5115513c-5631-4b92-8158-c284559474e1",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 14, 0 ]
+        "version": [1, 0, 3],
+        "min_engine_version": [ 1, 16, 100 ]
     },
     "modules": [
         {
             "description": "Oh those weird awards",
             "type": "resources",
             "uuid": "78c615db-608d-45ed-8113-bf80d37b6582",
-            "version": [0, 0, 1]
+            "version": [1, 0, 3]
         }
     ]
 }
