@@ -1,11 +1,17 @@
 {
-	"format_version": "1.12.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "award:coinz"
-		},
-		"components": {
-			"minecraft:max_stack_size": 64
-		}
-	}
+   "format_version":"1.16.100",
+   "minecraft:item":{
+      "description":{
+         "category": "nature",
+         "identifier":"award:coinz"
+      },
+      "components":{
+         "minecraft:icon":{
+            "texture":"coinz"
+         },
+         "minecraft:display_name":{
+            "value":"Coin"
+         }
+      }
+   }
 }

@@ -1,11 +1,17 @@
 {
-	"format_version": "1.12.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "award:awardplatinum"
-		},
-		"components": {
-			"minecraft:max_stack_size": 64
-		}
-	}
+   "format_version":"1.16.100",
+   "minecraft:item":{
+      "description":{
+         "category": "nature",
+         "identifier":"award:awardplatinum"
+      },
+      "components":{
+         "minecraft:icon":{
+            "texture":"awardplatinum"
+         },
+         "minecraft:display_name":{
+            "value":"Platinum Award"
+         }
+      }
+   }
 }

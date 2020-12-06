@@ -1,11 +1,17 @@
 {
-	"format_version": "1.12.0",
-	"minecraft:item": {
-		"description": {
-			"identifier": "award:awardgold"
-		},
-		"components": {
-			"minecraft:max_stack_size": 64
-		}
-	}
+   "format_version":"1.16.100",
+   "minecraft:item":{
+      "description":{
+         "category": "nature",
+         "identifier":"award:awardgold"
+      },
+      "components":{
+         "minecraft:icon":{
+            "texture":"awardgold"
+         },
+         "minecraft:display_name":{
+            "value":"Gold Award"
+         }
+      }
+   }
 }
